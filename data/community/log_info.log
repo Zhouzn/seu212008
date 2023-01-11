@@ -1,0 +1,17 @@
+2023-01-11 23:01:34,544 INFO [restartedMain] c.s.n.c.Seu212008Application [StartupInfoLogger.java:51] Starting Seu212008Application using Java 17.0.5 with PID 2580 (D:\IJIDEA\seu212008\target\classes started by Arsrid in D:\IJIDEA\seu212008)
+2023-01-11 23:01:34,545 INFO [restartedMain] c.s.n.c.Seu212008Application [SpringApplication.java:630] No active profile set, falling back to 1 default profile: "default"
+2023-01-11 23:01:34,809 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:108] Tomcat initialized with port(s): 8080 (http)
+2023-01-11 23:01:34,810 INFO [restartedMain] o.a.c.c.StandardService [DirectJDKLog.java:173] Starting service [Tomcat]
+2023-01-11 23:01:34,810 INFO [restartedMain] o.a.c.c.StandardEngine [DirectJDKLog.java:173] Starting Servlet engine: [Apache Tomcat/10.1.4]
+2023-01-11 23:01:34,825 INFO [restartedMain] o.a.c.c.C.[.[.[/community] [DirectJDKLog.java:173] Initializing Spring embedded WebApplicationContext
+2023-01-11 23:01:34,825 INFO [restartedMain] o.s.b.w.s.c.ServletWebServerApplicationContext [ServletWebServerApplicationContext.java:291] Root WebApplicationContext: initialization completed in 277 ms
+2023-01-11 23:01:34,924 INFO [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:56] Adding welcome page template: index
+2023-01-11 23:01:34,953 INFO [restartedMain] o.s.b.d.a.OptionalLiveReloadServer [OptionalLiveReloadServer.java:59] LiveReload server is running on port 35729
+2023-01-11 23:01:34,960 INFO [restartedMain] o.s.b.w.e.t.TomcatWebServer [TomcatWebServer.java:220] Tomcat started on port(s): 8080 (http) with context path '/community'
+2023-01-11 23:01:34,963 INFO [restartedMain] c.s.n.c.Seu212008Application [StartupInfoLogger.java:57] Started Seu212008Application in 0.462 seconds (process running for 7102.623)
+2023-01-11 23:01:34,965 INFO [restartedMain] o.s.b.d.a.ConditionEvaluationDeltaLoggingListener [ConditionEvaluationDeltaLoggingListener.java:63] Condition evaluation unchanged
+2023-01-11 23:01:34,969 INFO [main] c.s.n.c.LoggerTests [StartupInfoLogger.java:51] Starting LoggerTests using Java 17.0.5 with PID 20736 (started by Arsrid in D:\IJIDEA\seu212008)
+2023-01-11 23:01:34,972 INFO [main] c.s.n.c.LoggerTests [SpringApplication.java:630] No active profile set, falling back to 1 default profile: "default"
+2023-01-11 23:01:36,761 INFO [main] o.s.b.a.w.s.WelcomePageHandlerMapping [WelcomePageHandlerMapping.java:56] Adding welcome page template: index
+2023-01-11 23:01:37,219 INFO [main] c.s.n.c.LoggerTests [StartupInfoLogger.java:57] Started LoggerTests in 2.747 seconds (process running for 3.532)
+2023-01-11 23:01:37,841 INFO [main] c.s.n.c.LoggerTests [LoggerTests.java:24] info log
